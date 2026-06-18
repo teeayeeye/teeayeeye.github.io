@@ -1,8 +1,15 @@
 # Tai Le
-Welcome to my personal portfolio! I’m a graduate at Victoria University.
+Hello and welcome to my personal portfolio! :wave:
 
 ## About Me
-I have experience in cloud computing, low-code platforms, and technology communities.
+I’m a graduate at Victoria University with a Bachelor of Information Technology.
+
+## Skills
+- Web App Development
+- Computer Networking & Enterprise Network Management
+- Server Administration & Management
+- Virtualization
+- Cloud Computing
 
 ## Contact
-You can reach me at [LinkedIn](linkedin.com/in/tai-le11) or [GitHub](https://github.com/teeayeeye).
+You can reach me at my [LinkedIn profile](linkedin.com/in/tai-le11) or [GitHub](https://github.com/teeayeeye).
