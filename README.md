@@ -12,4 +12,4 @@ I’m a graduate at Victoria University with a Bachelor of Information Technolog
 - Cloud Computing
 
 ## Contact
-You can reach me at my [LinkedIn profile](https://www.linkedin.com/in/tai-le11/)) or [GitHub](https://github.com/teeayeeye).
+You can reach me at my [LinkedIn profile](https://www.linkedin.com/in/tai-le11/) or [GitHub](https://github.com/teeayeeye).
